@@ -1,7 +1,7 @@
 # What's up 👋
 
-- I'm a software developer at [Efí Bank](https://sejaefi.com.br/sobre-a-efi/)
-- Currently learning about scalability and software architecture
+- I'm a software engineer at [Efí Bank](https://sejaefi.com.br/sobre-a-efi/)
+- Currently learning about software architecture and devops
 
 
 ### Would you like to find me?
